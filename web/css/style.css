@@ -1,0 +1,28 @@
+body{
+    background: #333333;
+    color:#fff;  
+}
+
+#creditos{
+    font-size: 10px;
+}
+
+.logo-principal{
+    width: 150px;
+}
+
+#h4error{
+    color: #f3f3f3;
+}
+
+a{
+    color: #1db954;
+}
+
+h3{
+    color: #1db954;
+}
+
+.btn {
+    background: #1db953;
+}
